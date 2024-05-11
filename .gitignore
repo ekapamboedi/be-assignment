@@ -1,0 +1,17 @@
+*.exe
+*.exe~
+*.dll
+*.so
+*.dylib
+*.txt
+binary
+
+*.test
+*.out
+go.work
+
+.air.toml
+/tmp
+/tmpfiles
+/Note
+.env
